@@ -1,19 +1,14 @@
-import "./App.css";
-import './Helper.js'
-import Landingpage from "./components/Landingpage";
-import Leftslider from "./components/Leftslider";
-import Downslider from "./components/Downslider";
+import './App.css'
+import Main from './components/Main'
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <main>
-        <Landingpage />
-        <Leftslider />
-        <Downslider />
+        <Main />
       </main>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

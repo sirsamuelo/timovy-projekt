@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react'
 
 const Downslider = () => {
   return (
-    <div className="slideFromDown__wrapper">
-      <div className="overlay"></div>
-      <div className="slideFromDown__singlePage" data-page="1">
+    <div className='slideFromDown__wrapper'>
+      <div className='overlay'></div>
+      <div className='slideFromDown__singlePage' data-page='1'>
         <h3>Grow your money</h3>
         <p>
           Investing your money can allow you to grow it. Most investment
@@ -12,10 +12,10 @@ const Downslider = () => {
           returns on your money over the long term. This return allows your
           money to build, creating wealth over time.
         </p>
-        <img src="./img/growmoney.png" alt="" />
+        <img src='./img/growmoney.png' alt='' />
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="2">
+      <div className='slideFromDown__singlePage' data-page='2'>
         <h3>Save for retirement</h3>
         <p>
           As you are working, you should be saving money for retirement. Put
@@ -28,10 +28,10 @@ const Downslider = () => {
           Becoming more conservative with your investments as you grow older can
           be wise, especially as you near retirement age.
         </p>
-        <img src="./img/retirement.png" alt="" />
+        <img src='./img/retirement.png' alt='' />
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="3">
+      <div className='slideFromDown__singlePage' data-page='3'>
         <h3>Earn higher returns</h3>
         <p>
           In order to grow your money, you need to put it in a place where it
@@ -41,10 +41,10 @@ const Downslider = () => {
           Therefore, if you want the chance to earn a higher return on your
           money, you will need to explore investing your money.
         </p>
-        <img src="./img/3-principle.jpeg" alt="" />
+        <img src='./img/3-principle.jpeg' alt='' />
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="4">
+      <div className='slideFromDown__singlePage' data-page='4'>
         <h3>Reach financial goals</h3>
         <p>
           Investing can help you reach big financial goals. If your money is
@@ -54,7 +54,7 @@ const Downslider = () => {
           goals, such as buying a home, buying a car, starting your own
           business, or putting your children through college.
         </p>
-        <img src="./img/financialGoals.png" alt="raymond" />
+        <img src='./img/financialGoals.png' alt='raymond' />
         <p>
           We also believe everything–including design–must evolve to reflect our
           current moment, to satisfy contemporary tastes, and most importantly,
@@ -68,7 +68,7 @@ const Downslider = () => {
         </p>
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="5">
+      <div className='slideFromDown__singlePage' data-page='5'>
         <h3>Earn More Than From a Savings Account</h3>
         <p>
           Putting money away in a savings account may seem like the obvious way
@@ -80,10 +80,10 @@ const Downslider = () => {
           offers you the chance to take control of your finances rather than
           rely on the decisions of the Federal Reserve and FOMC.
         </p>
-        <img src="./img/tax.png" alt="" />
+        <img src='./img/tax.png' alt='' />
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="6">
+      <div className='slideFromDown__singlePage' data-page='6'>
         <h3>Diversify Your Income</h3>
         <p>
           Investment allows you to create multiple streams of income. For
@@ -97,7 +97,7 @@ const Downslider = () => {
         </p>
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="7">
+      <div className='slideFromDown__singlePage' data-page='7'>
         <h3>Gain Knowledge and Stimulate Your Mind</h3>
         <p>
           If you want to succeed at investing, you have a lot to learn, and the
@@ -109,10 +109,10 @@ const Downslider = () => {
           crisis or a war. Investing is a venture suitable for minds that are
           enthusiastic to learn and that seek stimulation.
         </p>
-        <img src="./img/7-principle.jpeg" alt='' />
+        <img src='./img/7-principle.jpeg' alt='' />
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="8">
+      <div className='slideFromDown__singlePage' data-page='8'>
         <h3>Support Causes That Are Meaningful to You</h3>
         <p>
           If you are interested in a cause, such as green energy or ending
@@ -123,7 +123,7 @@ const Downslider = () => {
         </p>
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="9">
+      <div className='slideFromDown__singlePage' data-page='9'>
         <h3>Help Others Achieve Their Goals</h3>
         <p>
           The main way that you can help others to achieve their goals is to
@@ -136,7 +136,7 @@ const Downslider = () => {
         </p>
       </div>
 
-      <div className="slideFromDown__singlePage" data-page="10">
+      <div className='slideFromDown__singlePage' data-page='10'>
         <h3>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum,
           omnis!
@@ -150,7 +150,7 @@ const Downslider = () => {
         </p>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Downslider;
+export default Downslider
